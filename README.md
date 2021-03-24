@@ -1,8 +1,8 @@
 # PROJECT 01
 ## BALLN App
 
-* [Live Link](https://stevenstefanov.github.io/nba-game-locator/)
-* [Repo Link](https://github.com/stevenstefanov/nba-game-locator)
+* [Live Link](https://eliezeralmonte.github.io/nba-game-locator/)
+* [Repo Link](https://github.com/eliezeralmonte/nba-game-locator)
 
 ## Description
 This is a sports app leveraging 2 APIs, the first being the NBA API which will retrieve game statistics for a team and the second API will retrieve the team's future games and ticket information. This will assist the user with getting their favorite NBA team's most updated stats and future games ticket information.
